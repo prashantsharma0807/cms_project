@@ -1,0 +1,67 @@
+#login{
+display: flex;
+height: 650px;
+align-items: center;
+}
+
+#login h2{
+    color: greenyellow;
+    text-align: center;
+}
+#login p{
+    text-align: center;
+    margin-top: 8px;
+}
+#login p a{
+    text-decoration: none;
+}
+
+#header{
+    background: blue;
+}
+#header ul{
+    float: right;
+}
+#header ul li{
+    display: inline-block;
+    
+}
+#header ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-right:10px;
+    font-size: larger;
+}
+#header h4{
+    color: white;
+}
+
+#footer{
+    background: blue;
+}
+#footer h2{
+    color: aliceblue;
+    text-align: center;
+}
+
+#profile .p1{
+    font-size: 18px;
+}
+
+#profile img{
+    width:120px;
+    border-radius: 50%;
+    height: 120px;
+}
+.card{
+    border: none;
+}
+
+#passreset{
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+body p{
+    text-align: justify;
+}

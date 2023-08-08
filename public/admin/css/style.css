@@ -1,0 +1,16 @@
+#header{
+    background: rgb(50, 95, 245);
+    padding: 7px 0px;
+}
+#header h4{
+    color: white;
+}
+#header button{
+    float: right;
+}
+#footer{background: rgb(50, 95, 245) ;
+}
+#footer h2{
+    color: white;
+    text-align: center;
+}
